@@ -51,6 +51,7 @@ def dict_names(name_list:list) -> dict:
     
 
 """
+检测到静音，插入#3, 遗留问题：根据静音长度插入不同的标记
 给出音频路径描述文件， 获取音频路径列表。一般有两种格式
   * 带音素标注的格式：path|key|lang|text|phs
   * asr 标注格式：key|path|text
