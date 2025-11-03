@@ -1,0 +1,106 @@
+absl-py==2.3.1
+accelerate==1.7.0
+aiohappyeyeballs @ file:///croot/aiohappyeyeballs_1734469393482/work
+aiohttp @ file:///croot/aiohttp_1734687138658/work
+aiosignal @ file:///tmp/build/80754af9/aiosignal_1637843061372/work
+async-timeout @ file:///croot/async-timeout_1732661977001/work
+attrs @ file:///croot/attrs_1734533101012/work
+audioread==3.0.1
+Bottleneck @ file:///croot/bottleneck_1731058641041/work
+Brotli @ file:///croot/brotli-split_1736182456865/work
+certifi @ file:///croot/certifi_1745939216646/work/certifi
+cffi==1.17.1
+charset-normalizer @ file:///croot/charset-normalizer_1721748349566/work
+click==8.3.0
+datasets @ file:///croot/datasets_1741367990881/work
+decorator==5.2.1
+dill @ file:///croot/dill_1715094664823/work
+filelock @ file:///croot/filelock_1744281381737/work
+frozenlist @ file:///croot/frozenlist_1730902802621/work
+fsspec @ file:///croot/fsspec_1736274672181/work
+grpcio==1.74.0
+huggingface_hub @ file:///croot/huggingface_hub_1741284102044/work
+idna @ file:///croot/idna_1714398848350/work
+jedi==0.19.2
+Jinja2==3.1.4
+jiwer==4.0.0
+joblib==1.5.1
+lazy_loader==0.4
+Levenshtein==0.27.1
+librosa==0.11.0
+llvmlite==0.44.0
+Markdown==3.8.2
+MarkupSafe==2.1.5
+mkl-service==2.4.0
+mkl_fft @ file:///io/mkl313/mkl_fft_1730824109137/work
+mkl_random @ file:///io/mkl313/mkl_random_1730823916628/work
+mpmath==1.3.0
+msgpack==1.1.0
+multidict @ file:///croot/multidict_1730905498140/work
+multiprocess @ file:///croot/multiprocess_1692294385131/work
+networkx==3.3
+numba==0.61.2
+numexpr @ file:///croot/numexpr_1730215937391/work
+numpy==1.26.4
+nvidia-cublas-cu11==11.11.3.6
+nvidia-cuda-cupti-cu11==11.8.87
+nvidia-cuda-nvrtc-cu11==11.8.89
+nvidia-cuda-runtime-cu11==11.8.89
+nvidia-cudnn-cu11==9.1.0.70
+nvidia-cufft-cu11==10.9.0.58
+nvidia-curand-cu11==10.3.0.86
+nvidia-cusolver-cu11==11.4.1.48
+nvidia-cusparse-cu11==11.7.5.86
+nvidia-ml-py==13.580.65
+nvidia-nccl-cu11==2.21.5
+nvidia-nvtx-cu11==11.8.86
+nvitop==1.5.3
+packaging @ file:///croot/packaging_1734472117206/work
+pandas @ file:///croot/pandas_1732735089971/work/dist/pandas-2.2.3-cp310-cp310-linux_x86_64.whl#sha256=3fa290e76efa7b7868273de6ab4ee4a73af177cdd88202834ad0eea6dd898d9e
+parso==0.8.4
+pillow==11.0.0
+platformdirs==4.3.8
+pooch==1.8.2
+propcache @ file:///croot/propcache_1744012718189/work
+protobuf @ file:///croot/protobuf_1742419705443/work/bazel-bin/python/dist/protobuf-5.29.3-cp310-abi3-linux_x86_64.whl#sha256=e55acfd476c7a1d8544b98df45c7d8e9c425b9caf0abb1f7e7cfa87c2e017bd1
+psutil==7.0.0
+pudb==2025.1
+pyarrow @ file:///croot/pyarrow_1738229418212/work/python
+pybind11==2.13.6
+pycparser==2.22
+pydub==0.25.1
+Pygments==2.19.2
+PySocks @ file:///home/builder/ci_310/pysocks_1640793678128/work
+python-dateutil @ file:///croot/python-dateutil_1716495738603/work
+pytz @ file:///croot/pytz_1713974312559/work
+PyYAML @ file:///croot/pyyaml_1728657952215/work
+RapidFuzz==3.13.0
+regex @ file:///croot/regex_1736540786412/work
+requests @ file:///croot/requests_1730999120400/work
+safetensors @ file:///croot/safetensors_1741361308036/work
+scikit-learn==1.6.1
+scipy==1.15.3
+six @ file:///croot/six_1744271502820/work
+soundfile==0.13.1
+soxr==0.5.0.post1
+sympy==1.13.1
+tensorboard==2.20.0
+tensorboard-data-server==0.7.2
+tensorboardX==2.6.2.2
+threadpoolctl==3.6.0
+tokenizers @ file:///croot/tokenizers_1741370336077/work
+torch==2.6.0+cu118
+torchaudio==2.6.0+cu118
+torchvision==0.21.0+cu118
+tqdm @ file:///croot/tqdm_1738943501192/work
+transformers @ file:///croot/transformers_1741705251010/work
+triton==3.2.0
+typing_extensions @ file:///croot/typing_extensions_1734714854207/work
+tzdata @ file:///croot/python-tzdata_1746123641790/work
+urllib3 @ file:///croot/urllib3_1737133630106/work
+urwid==3.0.2
+urwid_readline==0.15.1
+wcwidth==0.2.13
+Werkzeug==3.1.3
+xxhash @ file:///croot/python-xxhash_1737039434400/work
+yarl @ file:///croot/yarl_1732546845924/work
